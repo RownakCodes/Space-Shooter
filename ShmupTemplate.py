@@ -8,8 +8,6 @@ import pygame
 import random
 from os import path
 
-#nafis DUm dum 
-
 img_dir = path.join(path.dirname(__file__))
 
 snd_dir = img_dir
