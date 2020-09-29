@@ -172,7 +172,7 @@ class Player(pygame.sprite.Sprite):
         self.hide_timer = pygame.time.get_ticks()
         self.power = 1
         self.power_timer = pygame.time.get_ticks()
-# nafis dum dum
+
     def update(self):
         # Timeout of Powerups
         if self.power > 1:
